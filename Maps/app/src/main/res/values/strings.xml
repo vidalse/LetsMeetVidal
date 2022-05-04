@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="iniciarses">Inicar Sesión</string>
+    <string name="primerave">¿Es tu primera vez por aquí?</string>
+    <string name="conocenos">¡Conocenos algo mejor!</string>
+    <string name="todavia">¿Todavía no tienes cuenta?</string>
+    <string name="Registrart">Registrar</string>
+    <string name="bienvenido">Bienvenid@s a Let´s Meet</string>
+    <string name="txtbtnreg">Registro</string>
+    <string name="nombree">Nombre: </string>
+    <string name="txtRegistro">¿No tiene todavía una cuenta?</string>
+
+    <string name="txtIDYA">Si ya tiene el ID del Meeting al que desea unirse, escribalo aquí: </string>
+    <string name="crear">Si desea crear uno nuevo: </string>
+    <string name="abie">Si desea buscar los diferentes Meetings disponibles filtrados por categoría: </string>
+
+
+
+    <string name="buscarmeti">Buscar Meeting</string>
+    <string name="crearmeti">Crear Meeting</string>
+    <string name="mapaabier">Mapa Abierto</string>
+
+    <string name="crearUsuario">Hola de nuevo, si desea registrarse rellene los siguientes campos.</string>
+    <string name="nombreRegistro">Nombre: </string>
+    <string name="apellidoRegistro">Apellido: </string>
+    <string name="dniRegistro">DNI: </string>
+    <string name="mailRegistro">Dirección de correo electrónico</string>
+    <string name="direccionRegistro">Dirección de su domicilio actual: </string>
+    <string name="edadRegistro">Edad: </string>
+    <string name="subcripcionRegistro">¿Desea qúe le mandemos información sobre nuestras actualizaciones e innovaciones?</string>
+    <string name="btnContinuarRegistro">¡Unete a nuestra comunidad!</string>
+
+</resources>
